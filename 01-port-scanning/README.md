@@ -1,4 +1,4 @@
-## 🌐 Project 1 (Extension): Target System Infrastructure Analysis
+## 🌐 Project 1 : Target System Infrastructure Analysis
 
 ### Objective
 To analyze the security posture, exposed services, and attack surface of a live target system utilizing specific IP-based reconnaissance.
